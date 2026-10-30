@@ -28,7 +28,7 @@ In my image-quality validation work, I collaborate with engineering teams on cam
 
 ### Selected projects
 
-**RAG Application — AI & Document Retrieval**  
+**[RAG Application — AI & Document Retrieval](https://github.com/berlinshaaban-design/RAG-Application)**  
 Built a Retrieval-Augmented Generation (RAG) application combining document retrieval and LLMs to generate context-aware responses.
 
 **[World Happiness — BI Analysis](https://github.com/berlinshaaban-design/world-happiness-bi-analysis)**  
