@@ -47,7 +47,7 @@ I'm **Berlin**, focused on **Business Intelligence and Data Analytics**—transf
 
 | Project | Focus | Tools |
 | --- | --- | --- |
-| 🌍 **World Happiness BI Analysis** | BI dashboard & data insights | SQL Server, SSIS, Tableau |
+| 🌍 **[World Happiness BI Analysis](https://github.com/berlinshaaban-design/world-happiness-bi-analysis)** | BI dashboard & data insights | SQL Server, SSIS, Tableau |
 | 🗼 **Paris Travel RAG** | Retrieval-augmented AI | AWS Bedrock, S3, Flask, Docker |
 | 📄 **Resume Screening System** | AI-assisted resume analysis | Python, FastAPI, RAG, n8n |
 
